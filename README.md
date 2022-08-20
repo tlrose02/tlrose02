@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Travis Rose
+- 👋 Hi, I’m Travis Rose, a data professional with a Master's in Business Analytics.
 - 👀 I’m interested in learning more about data science, machine learning, and expanding my data capabilities
-- 🌱 I’m currently learning the basics about machine learning algorithms.
-- 💞️ I’m looking to collaborate on data science projects that are most useful for businesses.
+- 🌱 I’m currently working on projects using Logistic Regression modeling for binary classification, K-Means Clustering, and more. 
+- 💞️ I’m looking to collaborate on data science projects that have tangible business value.
 - 📫 How to reach me - Email: tleer8899@gmail.com, LinkedIn: https://www.linkedin.com/in/travis-rose-msba-6bb0b6124/
-
