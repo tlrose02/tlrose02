@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Travis Rose, a Data Science and Analytics professional with a Master's in Business Analytics.
 - 🌱 I’m currently working on data projects that benefit from the use of statistical modeling, visualization tools and ad-hoc analysis.
-- For statistical modeling:
--   I have a great deal of experience doing binary classification and using Logistic Regressions to determine the likelihood of an event occurring, such as                  whether a member will respond to a mailing campaign. Using this type of model, I can focus our efforts on members to reach out to for                                    future marketing campaigns that will respond positively to them.
--   I have a good amount of experience using forecasting models such as time series using Facebook Prophet. Using this type of model, I can predict what                     values to expect in the near future with varying levels of certainty based on prior data points in time. This includes the number of patients who will be                diagnosed with a certain severity of heart problems, which is super helpful for our risk adjustment team to adjust our finances to accommodate.
--   I have a good amount of experience grouping K-Means Clustering, and more. 
-- 💞️ I’m looking to collaborate on data science projects that have tangible business value.
+- 📖 For statistical modeling:
+-  1️⃣ I have a great deal of experience doing binary classification and using Logistic Regressions to determine the likelihood of an event occurring, such as                  whether a member will respond to a mailing campaign. Using this type of model, I can focus our efforts on members to reach out to for                                    future marketing campaigns that will respond positively to them.
+-  2️⃣ I have a good amount of experience using forecasting models such as time series using Facebook Prophet. Using this type of model, I can predict what                     values to expect in the near future with varying levels of certainty based on prior data points in time. This includes the number of patients who will be                diagnosed with a certain severity of heart problems, which is super helpful for our risk adjustment team to adjust our finances to accommodate.
+-  3️⃣ I have a good amount of experience grouping customers based on certain characteristics such as spending and savings habits. In the credit union world, I used K-         Means Clustering to create customer groupings based spending habits, credit score, and more to market specific products towards that we determined through               analysis they had a higher propensity to purchase. A "older professional" would be more likely to get a mortgage than would a "new professional", and these              groupings were based on age, credit score, number of products, and more.
+- 🏫 I’m always on the lookout for new collaborations on data science projects that have tangible business value.
 - 📫 How to reach me:
 
   -  **Email:** tleer8899@gmail.com 
