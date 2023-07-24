@@ -8,7 +8,10 @@
 -   1. I have a wealth of experience creating visualizations to showcase trend analyses, or measures over time, to end users.
     2. I have created dashboards for Key Performance Indicators (KPI) such as response rates to marketing campaigns, number of members with certain diseases, and more.
     3. I have created mapping visuals showing the highest concentrations of my company's members in Ohio. Additionally, these visuals allow my end users to filter for demographic information such as age, gender, and more, in order to see which demographics we may need to invest more time to outreach.
-- 🕵️ Using my best detective hat, I often perform ad-hoc (or a one-time) analysis in Python and SQL for my end users. This can include using SQL to determine how many service providers in our network have had a higher concentration of patients coming in at my current role, or using Python to see how many members came close to defaulting on their loans on a monthly basis duing my time at the credit union.
+- 🕵️ Using my best detective hat, I often perform ad-hoc (or a one-time) analysis in Python and SQL for my end users.
+- 1. This can include using SQL to determine how many service providers in our network have had a higher concentration of patients coming in at my current role
+  2. I have also used Python to see how many members came close to defaulting on their loans on a monthly basis duing my time at the credit union. 
+  3. Finally, I have using a combination of both SQL and Python automated reports that used to take days to complete and shorten that timeframe to hours.
 - 🏫 I’m always on the lookout for new collaborations on data science projects that have tangible business value.
 - 📫 How to reach me:
 
